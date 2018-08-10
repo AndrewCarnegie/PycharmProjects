@@ -4,9 +4,13 @@
     <bookmark url="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/TestOther.py" line="51" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="853846b3-6c28-4788-ba30-86ae1869a74f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Unit Test/unittest_basic.py" />
+    <list default="true" id="853846b3-6c28-4788-ba30-86ae1869a74f" name="Default" comment="update basic">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Workflow/__init__.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/Comment.py" afterPath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/Comment.py" />
+      <change beforePath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/method_resolution_order.py" afterPath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/method_resolution_order.py" />
+      <change beforePath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py" afterPath="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py" />
+      <change beforePath="$PROJECT_DIR$/PythonLearning/venv/WebService/webserviceconcept.py" afterPath="$PROJECT_DIR$/PythonLearning/venv/WebService/webserviceconcept.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,12 +20,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="unittest_basic.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Unit Test/unittest_basic.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="unit_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="105">
+              <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webserviceconcept.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonLearning/venv/WebService/webserviceconcept.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -49,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter2_number.py" />
-        <option value="$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter3_string.py" />
-        <option value="$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter4_list.py" />
         <option value="$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter5_tuple.py" />
         <option value="$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter6_dictionary.py" />
         <option value="$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter7_flowcontrol.py" />
@@ -95,15 +106,18 @@
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/function_method.py" />
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonHomework/copy_list.py" />
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/data_create_method.py" />
-        <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py" />
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/For.py" />
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/sorting_algorithm.py" />
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Recursion/search_file_by_recursion.py" />
         <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Unit Test/unittest_basic.py" />
+        <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/Comment.py" />
+        <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/method_resolution_order.py" />
+        <option value="$PROJECT_DIR$/PythonLearning/venv/WebService/webserviceconcept.py" />
+        <option value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="20" />
     <option name="width" value="1357" />
     <option name="height" value="861" />
@@ -126,6 +140,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="Workflow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6 (venv1) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -169,33 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,15 +227,15 @@
     <option name="mySaveCallSignatures" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\fenye\PycharmProjects\untitled\venv\Lib\site-packages" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fenye\PycharmProjects\PythonLearning\venv\PythonBasic\Data structure\List" />
       <recent name="C:\Users\fenye\PycharmProjects\PythonLearning\venv\PythonBasic\Recursion" />
       <recent name="C:\Users\fenye\PycharmProjects\PythonLearning\venv\PythonBasic\Performance" />
       <recent name="C:\Users\fenye\PycharmProjects\PythonLearning\venv\PythonBasic\Data structure" />
       <recent name="C:\Users\fenye\PycharmProjects\PythonLearning\venv\PythonBasic\Algorithm" />
-      <recent name="C:\Users\fenye\PycharmProjects\PythonLearning\Configuration" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fenye\PycharmProjects\untitled\venv\Lib\site-packages" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -237,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.For">
+  <component name="RunManager" selected="Python.unit_test">
     <configuration name="For" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,24 +305,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="nested_data_structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PycharmProjects" />
-      <option name="SCRIPT_NAME" value="C:\Users\fenye\PycharmProjects\PythonLearning\venv\PythonBasic\Data structure\nested_data_structure.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="sorting_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,20 +323,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="unit_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.nested_data_structure" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sorting_algorithm" />
-      <item index="2" class="java.lang.String" itemvalue="Python.function_method" />
-      <item index="3" class="java.lang.String" itemvalue="Python.copy_list" />
-      <item index="4" class="java.lang.String" itemvalue="Python.For" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sorting_algorithm" />
+      <item index="1" class="java.lang.String" itemvalue="Python.function_method" />
+      <item index="2" class="java.lang.String" itemvalue="Python.copy_list" />
+      <item index="3" class="java.lang.String" itemvalue="Python.For" />
+      <item index="4" class="java.lang.String" itemvalue="Python.unit_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.For" />
-        <item index="1" class="java.lang.String" itemvalue="Python.copy_list" />
-        <item index="2" class="java.lang.String" itemvalue="Python.function_method" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sorting_algorithm" />
-        <item index="4" class="java.lang.String" itemvalue="Python.nested_data_structure" />
+        <item index="0" class="java.lang.String" itemvalue="Python.unit_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.For" />
+        <item index="2" class="java.lang.String" itemvalue="Python.copy_list" />
+        <item index="3" class="java.lang.String" itemvalue="Python.function_method" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sorting_algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -359,6 +372,14 @@
       <option name="presentableId" value="Default" />
       <updated>1516079178670</updated>
     </task>
+    <task id="LOCAL-00001" summary="update basic">
+      <created>1529979023923</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529979023923</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -371,16 +392,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="0" width="1357" height="861" extended-state="1" />
+    <frame x="20" y="0" width="1357" height="861" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24033359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39586207" sideWeight="0.5025418" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46143252" sideWeight="0.49745825" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24033359" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3953168" sideWeight="0.5025418" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292011" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36501378" sideWeight="0.49745825" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494465" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278237" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47586206" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -395,6 +417,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update basic" />
+    <option name="LAST_COMMIT_MESSAGE" value="update basic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -420,44 +446,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter6_io.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter8_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter5_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/TestOther.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="39" column="64" lean-forward="true" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter2_generaldatatype.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/untitled/venv/Lib/site-packages/chapter3_datastructures.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -674,20 +662,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/compatibility_iterative_update.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/excel_operation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -716,13 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/nested_data_structure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/For.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -734,13 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -769,14 +729,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/List/nested_data_structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/compatibility_iterative_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/method_resolution_order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="352" column="2" lean-forward="true" selection-start-line="352" selection-start-column="2" selection-end-line="352" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Data structure/Class/Comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/-2094658538/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="3620" column="0" lean-forward="false" selection-start-line="3620" selection-start-column="0" selection-end-line="3620" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/Unit Test/unittest_basic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="21">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/WebService/webserviceconcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonLearning/venv/PythonBasic/unit_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
           <folding />
         </state>
       </provider>
